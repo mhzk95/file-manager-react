@@ -1,3 +1,14 @@
+# Screenshots
+
+### `Grid View`
+[![Home-screenshot.png](https://i.postimg.cc/QxGcwwdF/Home-screenshot.png)](https://postimg.cc/vDh16P9y)
+
+### `List View`
+[![list-view-screenshot.png](https://i.postimg.cc/9FLFZwKc/list-view-screenshot.png)](https://postimg.cc/SJzhpRmP)
+
+### `explore`
+[![path-screenshot.png](https://i.postimg.cc/dQWz9RsN/path-screenshot.png)](https://postimg.cc/QVT48TWc)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
